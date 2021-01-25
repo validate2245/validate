@@ -11,7 +11,8 @@ body {
 
 .bg-cnt {
   background-color: #f9f9f9;
-  width: 75%;
+  /* width: 75%; */
+  width: 100%;
 }
 .margin-tup {
   margin-top: 3rem !important;
